@@ -269,7 +269,7 @@ Tourably/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/tourably.git
+git clone https://github.com/swayamchorge/tourably.git
 ```
 
 ### 2. Open the Project
@@ -298,7 +298,7 @@ const firebaseConfig = {
 };
 ```
 
-> ⚠️ Never upload private API keys, credentials, or sensitive configuration files to a public repository.
+> ⚠️ Note: To run the project, create your own Firebase project and replace the placeholder values with your Firebase configuration
 
 ### 4. Configure Integrations
 
@@ -370,11 +370,11 @@ Tourably was developed as an academic project to demonstrate practical implement
 
 Computer Science and Engineering Student
 
-📌 GitHub: https://github.com/swayamchorge 
+📌 GitHub:https://github.com/swayamchorge 
 
 📧 Email: chorgeswayam2006@gmail.com
 
-🔗Linkedln: https://www.linkedin.com/in/swayam-chorge-a01214432
+🔗Linkedln:https://www.linkedin.com/in/swayam-chorge-a01214432
 
 ---
 
