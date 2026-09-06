@@ -370,11 +370,11 @@ Tourably was developed as an academic project to demonstrate practical implement
 
 Computer Science and Engineering Student
 
-📌 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+📌 GitHub: https://github.com/swayamchorge 
 
 📧 Email: chorgeswayam2006@gmail.com
 
-📱 Mobile: +91 8624805973
+🔗Linkedln: https://www.linkedin.com/in/swayam-chorge-a01214432
 
 ---
 
